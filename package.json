@@ -22,7 +22,7 @@
     "fis-optimizer-png-compressor": "0.2.0",
     "fis-optimizer-uglify-js": "0.2.2",
     "fis-spriter-csssprites": "0.4.0",
-    "fis3-command-init": "1.0.14",
+    "fis3-command-init": "git+https://github.com/shizitou/fis3-command-init",
     "fis3-command-inspect": "1.0.3",
     "fis3-command-release": "1.3.18",
     "fis3-command-server": "0.0.9",
